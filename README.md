@@ -18,7 +18,7 @@ The guiding notes below are a summarized version of what is already on the slide
 ```
 $ java -version
 ```
-* If the the binary does not exists, follow [these instructions][1] to download and install (officially, we will use Java 1.8 but any version bigger than 1.7 will work as well)
+* If the the binary does not exists, follow [these instructions][1] to download and install (officially, we will use Java 1.8)
 
 * Revise the slides about&nbsp;Programming in Java, which will give you a very basic&nbsp;overview of the Java programming language.
 * Examine, compile and execute the classes of the [Example][2]&nbsp;(code is in main repository)
